@@ -35,7 +35,7 @@ namespace Student_Database
             {
                 Console.WriteLine("\nHere is a list of students: \n");
                 DisplayStudents(students);
-                Console.Write("\nWhich student would you like to learn about? (1-5) ");
+                Console.Write("\nWhich student would you like to learn about? ");
 
                 string userInput;
                 int index;
