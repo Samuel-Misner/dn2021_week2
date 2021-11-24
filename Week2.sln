@@ -26,13 +26,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryDemo2", "Dictiona
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping List", "Shopping List\Shopping List.csproj", "{A21E0602-B9AC-4305-94A8-5BC20F63F523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionDemo", "ExceptionDemo\ExceptionDemo.csproj", "{AF27DB46-67A4-47FA-A5C1-A42573D2ED92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionDemo", "ExceptionDemo\ExceptionDemo.csproj", "{AF27DB46-67A4-47FA-A5C1-A42573D2ED92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListMemory", "ListMemory\ListMemory.csproj", "{A390B8C8-8D27-4ECD-8CE1-C23BBC5E8413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListMemory", "ListMemory\ListMemory.csproj", "{A390B8C8-8D27-4ECD-8CE1-C23BBC5E8413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListMemory2", "ListMemory2\ListMemory2.csproj", "{99E8E9F8-68D6-4822-9D8F-F4249485C3B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListMemory2", "ListMemory2\ListMemory2.csproj", "{99E8E9F8-68D6-4822-9D8F-F4249485C3B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListPractice", "ArrayListPractice\ArrayListPractice.csproj", "{A3112DFF-7415-4ADF-8E6F-7DBE75707D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListPractice", "ArrayListPractice\ArrayListPractice.csproj", "{A3112DFF-7415-4ADF-8E6F-7DBE75707D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino Dice Roller", "Casino Dice Roller\Casino Dice Roller.csproj", "{EBD81D67-5B6B-400A-AAF7-C5B20AE66BD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +94,10 @@ Global
 		{A3112DFF-7415-4ADF-8E6F-7DBE75707D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3112DFF-7415-4ADF-8E6F-7DBE75707D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3112DFF-7415-4ADF-8E6F-7DBE75707D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD81D67-5B6B-400A-AAF7-C5B20AE66BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD81D67-5B6B-400A-AAF7-C5B20AE66BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD81D67-5B6B-400A-AAF7-C5B20AE66BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD81D67-5B6B-400A-AAF7-C5B20AE66BD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
