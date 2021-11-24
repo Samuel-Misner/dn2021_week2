@@ -133,7 +133,10 @@ namespace Shopping_List
                 total += menu[item];
             }
 
-            Console.WriteLine($"\n{"Total", -12}{"$" + total, 8}");
+            Console.WriteLine($"\n{"Total", -12}{"$" + total, 8}\n");
+
+            Console.WriteLine($"The least expensive item in your cart is {cart[0]}.");
+            Console.WriteLine($"The most expensive item in your cart is {cart[^1]}.");
         }
     }
 }
